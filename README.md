@@ -4,7 +4,7 @@
 
 A Power BI dashboard analyzing employee performance — high/low performer rates, promotion trends, goal achievement, and PIP status — to support performance management and calibration.
 
-![Dashboard Overview](docs/screenshots/overview_dashboard.png)
+https://github.com/Manisha-mishra-visualization/Performance-Analysis-Dashboard/blob/main/overview_dashboard.png
 
 ## Overview
 
@@ -76,9 +76,6 @@ Performance-Analysis-Dashboard/
 4. Update the data source path/connection if needed (Home → Transform Data → Data Source Settings).
 5. Refresh the data and explore.
 
-## License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
 
 ## Data Privacy
 
